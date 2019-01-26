@@ -1,0 +1,22 @@
+.label
+{
+    -fx-text-fill: #000000;
+    -fx-background-color: floralwhite;
+    -fx-border-image-width: 20px;
+    -fx-border-image-repeat: stretch;
+    -fx-border-image-source: url(../Border.png);
+    -fx-border-image-slice: 18px;
+}
+
+.button
+{
+    -fx-background-color: cornsilk;
+    -fx-border-width: 3px;
+    -fx-border-color: black;
+}
+
+#background
+{
+    -fx-text-fill: #000000;
+    -fx-background-color: linear-gradient(cornsilk, burlywood);
+}
