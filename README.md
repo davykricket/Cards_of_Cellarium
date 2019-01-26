@@ -9,6 +9,7 @@ Includes:
   4. Peer-to-Peer networking used for all the local online play
   5. Full GUI with names per player
   6. Timers are shared between players and updated by the server/host
+  
 Lacking:
   1. Non-local online play
   2. Better variety of cards
